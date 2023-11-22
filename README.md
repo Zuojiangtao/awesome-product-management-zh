@@ -5,6 +5,8 @@
 
 ## 文档
 
+### 开源仓库
+
 - [jackispm/ProductManager](https://github.com/jackispm/ProductManager) - 为产品工程师/产品经理/产品设计师/产品独立开发者准备的资源集和
 - [wx-chevalier/Product-Notes](https://github.com/wx-chevalier/Product-Notes) - 产品迷思，不仅仅是产品经理，对于产品设计、交互体验、项目管理、行业视点等多方面的思考。
 - [NAMEs/ProductManager](https://github.com/NAMEs/ProductManager) - 互联网产品经理精选工作必读书
@@ -17,12 +19,16 @@
 - [msh01/awesome_product_design](https://github.com/msh01/awesome_product_design) - 献给产品经理们的产品设计理论、书籍、工具、网站大合集
 - [AvaLee-HEU/PM-ReferenceFiles](https://github.com/AvaLee-HEU/PM-ReferenceFiles) - AvaLee的产品经理学习文件集
 
-## 文档模板
+### 文档模板
 
 - [pangfeiyo/-wangyiyun-Axure8.0ProductManager](https://github.com/pangfeiyo/-wangyiyun-Axure8.0ProductManager) - 【网易云】Axure8.0产品经理（全集）
 - [wowhxj/emacs-from-scratch](https://github.com/wowhxj/emacs-from-scratch) - 面向产品经理的Emacs系列教程配套配置文件
 - [mahaibin97/PRD](https://github.com/mahaibin97/PRD) - 产品经理 PRD
 - [RainmanJin/PMDoc](https://github.com/RainmanJin/PMDoc) - 产品经理工作文档
+
+### 优秀文章
+
+- [知乎：怎样才能尽快从开发岗转到产品经理岗位？](https://www.zhihu.com/question/272498246/answer/2250010819)
 
 ## 网站
 
