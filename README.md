@@ -90,6 +90,17 @@
 - [⽇事清](https://www.rishiqing.com/app/todo)
 - [Notion](https://notion.so/)
 
+### 项目管理
+
+- [禅道](https://www.zentao.net/)
+- [TAPD](https://tapd.cn/)
+- [Tower](https://tower.im/)
+- [Teambition](https://teambition.com/)
+- [Worktile](https://worktile.com/)
+- [Workflow](https://workflow.is/)
+- [jira](https://www.atlassian.com/zh/software/jira)
+- [Confluence](https://www.atlassian.com/zh/software/confluence)
+
 ## 书籍推荐
 
 - 《有效需求分析》
