@@ -28,6 +28,8 @@
 
 - [自学成为AI产品经理](https://stevenjokess.github.io/2bPM/)
 - [PMCAFF互联网产品社区](https://coffee.pmcaff.com/)
+- [人人都是产品经理](https://www.woshipm.com/)
+- [imspm](https://www.imspm.com/chanpin.html)
 
 ## 书籍推荐
 
