@@ -41,6 +41,22 @@
 - [产品壹佰](https://www.bilibili.com/read/cv12139290/)
 - [产品邦](https://www.bilibili.com/read/cv12139290/)
 
+### 行研网站
+
+- [国家宏观数据](http://www.stats.gov.cn/)
+- [艾瑞网](https://www.iresearch.cn/)
+- [199it互联网数据中心](https://hao.199it.com/)
+- [比达网](https://bigdata-research.cn/)
+- [卡思数据](https://www.caasdata.com/)
+- [Wind](https://www.wind.com.cn/NewSite/edb)
+- [友盟](https://umeng.com)
+- [TalkingData](http://mi.talkingdata.com)
+- [DataEye](https://www.dataeye.com/report)
+- [App Annie](https://www.appannie.com)
+- [镝数聚](https://www.dydata.io/)
+- [阿拉丁指数](https://www.aldzs.com/bg)
+- [新榜](https://report.newrank.cn/index)
+
 ## 书籍推荐
 
 - 《有效需求分析》
