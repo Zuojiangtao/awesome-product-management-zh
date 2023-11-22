@@ -36,6 +36,8 @@
 - [Axure RP](https://axure.com) - 免费试用 & 订阅付费
 - [Product School](https://productschool.com) - 内容付费
 - [The Digital Project Manager](https://thedigitalprojectmanager.com) - 会员服务
+- [产品壹佰](https://www.bilibili.com/read/cv12139290/)
+- [产品邦](https://www.bilibili.com/read/cv12139290/)
 
 ## 书籍推荐
 
