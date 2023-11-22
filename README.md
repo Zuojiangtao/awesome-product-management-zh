@@ -17,7 +17,7 @@
 - [msh01/awesome_product_design](https://github.com/msh01/awesome_product_design) - 献给产品经理们的产品设计理论、书籍、工具、网站大合集
 - [AvaLee-HEU/PM-ReferenceFiles](https://github.com/AvaLee-HEU/PM-ReferenceFiles) - AvaLee的产品经理学习文件集
 
-## 文件模板
+## 文档模板
 
 - [pangfeiyo/-wangyiyun-Axure8.0ProductManager](https://github.com/pangfeiyo/-wangyiyun-Axure8.0ProductManager) - 【网易云】Axure8.0产品经理（全集）
 - [wowhxj/emacs-from-scratch](https://github.com/wowhxj/emacs-from-scratch) - 面向产品经理的Emacs系列教程配套配置文件
