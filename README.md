@@ -81,6 +81,15 @@
 - [语雀](https://yuque.com)
 - [OneNote](https://onenote.com)
 
+### 效率工具
+
+- [Xmind](https://xmind.cn/)
+- [ProcessOn](https://processon.com/)
+- [百度脑图](https://naotu.baidu.com/)
+- [To Do](https://to-do.live.com/tasks/)
+- [⽇事清](https://www.rishiqing.com/app/todo)
+- [Notion](https://notion.so/)
+
 ## 书籍推荐
 
 - 《有效需求分析》
