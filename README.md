@@ -30,6 +30,12 @@
 - [PMCAFF互联网产品社区](https://coffee.pmcaff.com/)
 - [人人都是产品经理](https://www.woshipm.com/)
 - [imspm](https://www.imspm.com/chanpin.html)
+- [产品经理导航](https://pmbaobao.com)
+- [Product Frameworks](https://product-frameworks.com) - 内容付费
+- [Product Manager Guides](https://pmstarterpack.com)
+- [Axure RP](https://axure.com) - 免费试用 & 订阅付费
+- [Product School](https://productschool.com) - 内容付费
+- [The Digital Project Manager](https://thedigitalprojectmanager.com) - 会员服务
 
 ## 书籍推荐
 
