@@ -59,22 +59,22 @@
 
 ### 设计网站
 
-- [优设](https://uisdc.com/)
+- [优设](https://uisdc.com/) - UISDC - 国内专业设计师平台
 - [站酷](http://www.zcool.com.cn/) - 为设计师和企业的成长之路提供版权解决方案和立体的视觉服务。
 - [UI中国](http://ui.cn/) - 用户体验设计专业平台
-- [标志情报局](https://www.logonews.cn/)
-- [Dribbble](https://dribbble.com/)
-- [花瓣网](https://huaban.com/)
+- [标志情报局](https://www.logonews.cn/) - 全球LOGO新闻和品牌设计趋势平台
+- [Dribbble](https://dribbble.com/) - Discover the World’s Top Designers & Creative Professionals.
+- [花瓣网](https://huaban.com/) - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）
 - [普象网](https://www.puxiang.com/) - 以工业设计为主
 - [工业设计网](https://go.cndesign.com/)
-- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/) - iconfont-阿里巴巴矢量图标库
 - [Fococlipping（抠图）](https://www.fococlipping.com/) - 免费在线抠图网站
-- [watereffect（倒影）](https://watereffect.net/)
+- [watereffect（倒影）](https://watereffect.net/) - Apply water effect to your picture
 - [Awwwards](https://www.awwwards.com/) - 一个灵感类的网站
-- [摹客](https://www.mockplus.cn/idoc-ui/?hmsr=hao.shejidaren)
-- [MasterGo](https://mastergo.com/)
-- [蓝湖](https://lanhuapp.com)
-- [Figma](https://www.figma.com)
+- [摹客](https://www.mockplus.cn/idoc-ui/?hmsr=hao.shejidaren) - 摹客设计协作平台，大幅提升设计效率
+- [MasterGo](https://mastergo.com/) - AI设计系统,产品原型设计平台,在线UX界面交互软件,UI设计工具-Mastergo/莫高设计
+- [蓝湖](https://lanhuapp.com) - 高效的产品设计协作平台
+- [Figma](https://www.figma.com) - The Collaborative Interface Design Tool
 
 ### 文档协作
 
