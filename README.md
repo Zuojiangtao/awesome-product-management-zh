@@ -57,6 +57,23 @@
 - [阿拉丁指数](https://www.aldzs.com/bg)
 - [新榜](https://report.newrank.cn/index)
 
+### 设计网站
+
+- [优设](https://uisdc.com/)
+- [站酷](http://www.zcool.com.cn/) - 为设计师和企业的成长之路提供版权解决方案和立体的视觉服务。
+- [UI中国](http://ui.cn/) - 用户体验设计专业平台
+- [标志情报局](https://www.logonews.cn/)
+- [Dribbble](https://dribbble.com/)
+- [花瓣网](https://huaban.com/)
+- [普象网](https://www.puxiang.com/) - 以工业设计为主
+- [工业设计网](https://go.cndesign.com/)
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+- [Fococlipping（抠图）](https://www.fococlipping.com/) - 免费在线抠图网站
+- [watereffect（倒影）](https://watereffect.net/)
+- [Awwwards](https://www.awwwards.com/) - 一个灵感类的网站
+- [摹客](https://www.mockplus.cn/idoc-ui/?hmsr=hao.shejidaren)
+- [MasterGo](https://mastergo.com/)
+
 ## 书籍推荐
 
 - 《有效需求分析》
