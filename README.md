@@ -45,6 +45,7 @@
 ### 优秀文章
 
 - [知乎：怎样才能尽快从开发岗转到产品经理岗位？](https://www.zhihu.com/question/272498246/answer/2250010819)
+- [知乎：产品经理如何把需求，变成产品原型？](https://www.zhihu.com/question/627191099/answer/3263150674)
 
 ## 网站
 
