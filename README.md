@@ -1,4 +1,4 @@
-# Awesome Product Management Zh [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Product Management Zh
 
 一个为学习产品经理/项目管理的中文资源精选列表。
 
